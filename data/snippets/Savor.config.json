@@ -1,0 +1,11 @@
+{
+    "code": 404,
+    "msg": "GetFileAttributesEx D:\\思源test\\data\\snippets\\Savor.config.json: The system cannot find the path specified.",
+    "data": null,
+    "buttonSavor-light": "0",
+    "buttonsalt": "0",
+    "buttonsugar": "1",
+    "buttonforest": "0",
+    "buttonflower": "0",
+    "buttonwind": "0"
+}
