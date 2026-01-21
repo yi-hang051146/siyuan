@@ -1,4 +1,4 @@
-﻿﻿// Savor 主题模块化入口文件
+﻿// Savor 主题模块化入口文件
 
 document.addEventListener('DOMContentLoaded', () => {
     import('./js/main.js').then(module => {
