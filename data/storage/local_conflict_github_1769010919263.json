@@ -1,0 +1,832 @@
+{
+  "local-bazaar": {
+    "icon": "0",
+    "plugin": "0",
+    "template": "0",
+    "theme": "2",
+    "widget": "0"
+  },
+  "local-codelang": "json",
+  "local-dailynoteid": "20251216214231-bigsup8",
+  "local-dialogposition": {
+    "dialog-changelog": {
+      "height": 588,
+      "left": 246,
+      "top": 126,
+      "width": 768
+    },
+    "dialog-confirm": {
+      "height": 154,
+      "left": 771,
+      "top": 446,
+      "width": 520
+    },
+    "dialog-createnotebook": {
+      "height": 148,
+      "left": 370,
+      "top": 345,
+      "width": 520
+    },
+    "dialog-recentdocs": {
+      "height": 921,
+      "left": 810,
+      "top": 115,
+      "width": 426
+    },
+    "dialog-setcustomattr": {
+      "height": 146,
+      "left": 769,
+      "top": 522,
+      "width": 520
+    },
+    "dialog-setting": {
+      "height": 942,
+      "left": 49,
+      "top": 52,
+      "width": 899
+    }
+  },
+  "local-docinfo": {
+    "id": "20260121114251-i10bl7j"
+  },
+  "local-emojis": {
+    "currentTab": "dynamic"
+  },
+  "local-exportimg": {
+    "keepFold": false,
+    "watermark": true
+  },
+  "local-exportpdf": {
+    "keepFold": false,
+    "landscape": false,
+    "marginBottom": 1,
+    "marginLeft": 0.54,
+    "marginRight": 0.54,
+    "marginTop": 1,
+    "marginType": "default",
+    "mergeSubdocs": true,
+    "pageSize": "A4",
+    "paged": false,
+    "removeAssets": false,
+    "scale": 1,
+    "watermark": false
+  },
+  "local-exportword": {
+    "mergeSubdocs": false,
+    "removeAssets": false
+  },
+  "local-fileposition": {
+    "20200812220555-lj3enxa": {
+      "endId": "20260106221842-602fg94",
+      "rootId": "20200812220555-lj3enxa",
+      "scrollTop": 266,
+      "startId": "20251209210725-2e63bop"
+    },
+    "20200813004931-q4cu8na": {
+      "endId": "20230419153207-l40wjv2",
+      "focusEnd": 58,
+      "focusId": "20210118101917-4n4ygss",
+      "focusStart": 58,
+      "rootId": "20200813004931-q4cu8na",
+      "scrollTop": 1116.6153564453125,
+      "startId": "20210118100623-i00rgj0"
+    },
+    "20200813013559-sgbzl5k": {
+      "endId": "20220623200140-527rg7n",
+      "rootId": "20200813013559-sgbzl5k",
+      "scrollTop": 1375.3846435546875,
+      "startId": "20200817123136-in6y5m1"
+    },
+    "20200813093015-u6bopdt": {
+      "endId": "20230415111923-37gvzqk",
+      "rootId": "20200813093015-u6bopdt",
+      "scrollTop": 853.8461303710938,
+      "startId": "20210428213311-2hv9zwx"
+    },
+    "20200813125307-pxsjela": {
+      "endId": "20220317224209-iw0imsf",
+      "rootId": "20200813125307-pxsjela",
+      "scrollTop": 996.923095703125,
+      "startId": "20201229120428-dgzkno8"
+    },
+    "20200813131152-0wk5akh": {
+      "endId": "20221026221105-dyj8l8n",
+      "rootId": "20200813131152-0wk5akh",
+      "scrollTop": 249.84616088867188,
+      "startId": "20210104090757-ig8gk5o"
+    },
+    "20200822191536-rm6hwid": {
+      "endId": "20210104091259-86iaf33",
+      "rootId": "20200822191536-rm6hwid",
+      "scrollTop": 0,
+      "startId": "20210104091259-0s2m8p3"
+    },
+    "20200825162036-4dx365o": {
+      "endId": "20211213122332-wozw982",
+      "rootId": "20200825162036-4dx365o",
+      "scrollTop": 11794.400390625,
+      "startId": "20210604182832-nm3hapx"
+    },
+    "20200828105441-r76vmu5": {
+      "endId": "20221025095536-5m5f1uu",
+      "rootId": "20200828105441-r76vmu5",
+      "scrollTop": 382.76922607421875,
+      "startId": "20201225172241-7rtm3t1"
+    },
+    "20200905090211-2vixtlf": {
+      "endId": "20210104090624-vsksysm",
+      "focusEnd": 3,
+      "focusId": "20210104090624-hq3v2ah",
+      "focusStart": 3,
+      "rootId": "20200905090211-2vixtlf",
+      "scrollTop": 842.4615478515625,
+      "startId": "20210104090624-fkv1xsc"
+    },
+    "20200910201551-h4twhas": {
+      "endId": "20230928114129-dirvllf",
+      "rootId": "20200910201551-h4twhas",
+      "scrollTop": 283.69232177734375,
+      "startId": "20210104091316-ltmnzg9"
+    },
+    "20200915214115-42b8zma": {
+      "endId": "20230414202749-qbcnypq",
+      "rootId": "20200915214115-42b8zma",
+      "scrollTop": 1556.923095703125,
+      "startId": "20210503095355-r83044o"
+    },
+    "20200922101913-d5yitmq": {
+      "endId": "20221114172712-ecuoh5m",
+      "rootId": "20200922101913-d5yitmq",
+      "scrollTop": 524.3076782226562,
+      "startId": "20230418094115-f5isydz"
+    },
+    "20201004184819-nj8ibyg": {
+      "endId": "20210104090909-20f2hvi",
+      "rootId": "20201004184819-nj8ibyg",
+      "scrollTop": 0,
+      "startId": "20210104090909-6pyfjgx"
+    },
+    "20201117101902-2ewjjum": {
+      "endId": "20210630172118-iu2hsz3",
+      "focusEnd": 25,
+      "focusId": "20201224120447-s5zmpsa",
+      "focusStart": 25,
+      "rootId": "20201117101902-2ewjjum",
+      "scrollTop": 0,
+      "startId": "20210111224435-y1fesd1"
+    },
+    "20201210103036-1x3vm8t": {
+      "endId": "20241018104519-kr24kek",
+      "rootId": "20201210103036-1x3vm8t",
+      "scrollTop": 1194.15380859375,
+      "startId": "20210104090801-7whehbb"
+    },
+    "20201222093044-rx4zjoy": {
+      "endId": "20201224120447-ij3ivd5",
+      "focusEnd": 274,
+      "focusId": "20201224120447-cs6ur9x",
+      "focusStart": 274,
+      "rootId": "20201222093044-rx4zjoy",
+      "scrollTop": 468.6153869628906,
+      "startId": "20201117103851-l9cahuc"
+    },
+    "20210110175347-2xrwoiq": {
+      "endId": "20210110180249-yz7jbt6",
+      "rootId": "20210110175347-2xrwoiq",
+      "scrollTop": 0,
+      "startId": "20210110175347-jvtq2ap"
+    },
+    "20210127202655-2334vvv": {
+      "endId": "20210923104112-fheqye1",
+      "rootId": "20210127202655-2334vvv",
+      "scrollTop": 57.230770111083984,
+      "startId": "20210923103658-jkmi4k7"
+    },
+    "20210505163537-oo97zov": {
+      "endId": "20220420001522-igble2k",
+      "rootId": "20210505163537-oo97zov",
+      "scrollTop": 0,
+      "startId": "20210505163604-9bqjti3"
+    },
+    "20210612224500-ywcms1m": {
+      "endId": "20260106214549-ipu377o",
+      "focusEnd": 0,
+      "focusId": "20260106214549-ipu377o",
+      "focusStart": 0,
+      "rootId": "20210612224500-ywcms1m",
+      "scrollTop": 363,
+      "startId": "20210612224500-ftupo06"
+    },
+    "20210808180320-abz7w6k": {
+      "endId": "20240507235438-dyw2otm",
+      "focusEnd": 0,
+      "focusId": "20210419175122-qz9ez8m",
+      "focusStart": 0,
+      "rootId": "20210808180320-abz7w6k",
+      "scrollTop": 0,
+      "startId": "20210419175122-jibfje5"
+    },
+    "20210808180320-fqgskfj": {
+      "endId": "20240507235241-a37u0gy",
+      "rootId": "20210808180320-fqgskfj",
+      "scrollTop": 0,
+      "startId": "20240507235241-gp3vbz4"
+    },
+    "20210808180320-gyngv2x": {
+      "endId": "20240507235528-tov8lr5",
+      "rootId": "20210808180320-gyngv2x",
+      "scrollTop": 0,
+      "startId": "20240507235528-fs3ue7a"
+    },
+    "20210808180321-hbvl5c2": {
+      "endId": "20240612234640-ocrdto3",
+      "rootId": "20210808180321-hbvl5c2",
+      "scrollTop": 471.0769348144531,
+      "startId": "20210808180321-nvp3dph"
+    },
+    "20210824201257-cy7icrc": {
+      "endId": "20221114172636-pirwdpa",
+      "rootId": "20210824201257-cy7icrc",
+      "scrollTop": 0,
+      "startId": "20210824201352-apdkqps"
+    },
+    "20220415190432-r3xqn3r": {
+      "endId": "20220415232054-zr76p9s",
+      "rootId": "20220415190432-r3xqn3r",
+      "scrollTop": 2609.230712890625,
+      "startId": "20220415192036-99dwwdh"
+    },
+    "20220628204444-9n0y9h2": {
+      "endId": "20220628210345-fsoqtka",
+      "rootId": "20220628204444-9n0y9h2",
+      "scrollTop": 0,
+      "startId": "20220628204444-yil2u2m"
+    },
+    "20221016213308-uz5af79": {
+      "endId": "20221016213413-tvei9w1",
+      "rootId": "20221016213308-uz5af79",
+      "scrollTop": 0,
+      "startId": "20221016213413-q3c2v8u"
+    },
+    "20221223215557-o6gfsoy": {
+      "endId": "20221223220757-67tsme7",
+      "rootId": "20221223215557-o6gfsoy",
+      "scrollTop": 474.4615478515625,
+      "startId": "20221223215557-glo2lx8"
+    },
+    "20230104144904-39br4c6": {
+      "endId": "20230104151212-kfez5m3",
+      "rootId": "20230104144904-39br4c6",
+      "scrollTop": 279.69232177734375,
+      "startId": "20230104144904-x8ercy0"
+    },
+    "20230106101434-e6g4av3": {
+      "endId": "20230106103650-61q8v8i",
+      "focusEnd": 22,
+      "focusId": "20230106103744-93cbakm",
+      "focusStart": 22,
+      "rootId": "20230106101434-e6g4av3",
+      "scrollTop": 621.2307739257812,
+      "startId": "20230106101434-otjrwff"
+    },
+    "20230303235619-ex5l63e": {
+      "endId": "20230304000206-b18o0sx",
+      "rootId": "20230303235619-ex5l63e",
+      "scrollTop": 0,
+      "startId": "20230303235619-xwwiur1"
+    },
+    "20230405155631-leo4vc6": {
+      "endId": "20250825114436-jm8dekc",
+      "rootId": "20230405155631-leo4vc6",
+      "scrollTop": 1374.769287109375,
+      "startId": "20230405155631-0xw341e"
+    },
+    "20230428153709-hioyy5l": {
+      "endId": "20230428162527-zil49lr",
+      "rootId": "20230428153709-hioyy5l",
+      "scrollTop": 912.6153564453125,
+      "startId": "20230428153709-sc7nv54"
+    },
+    "20230429114837-70asb4j": {
+      "endId": "20230429114837-uavwo4u",
+      "rootId": "20230429114837-70asb4j",
+      "scrollTop": 3116.615478515625,
+      "startId": "20230429114837-3y8u0uj"
+    },
+    "20230506210010-houyyvy": {
+      "endId": "20230506210021-jimdgxy",
+      "rootId": "20230506210010-houyyvy",
+      "scrollTop": 0,
+      "startId": "20230506210021-udp6q1j"
+    },
+    "20230519105228-hm0y74i": {
+      "endId": "20230519111423-06jsy8x",
+      "rootId": "20230519105228-hm0y74i",
+      "scrollTop": 0,
+      "startId": "20230519110202-1k238kq"
+    },
+    "20240113102857-c63dmo5": {
+      "endId": "20250114215221-sl97cs4",
+      "focusEnd": 22,
+      "focusId": "20240113104832-2hvn950",
+      "focusStart": 22,
+      "rootId": "20240113102857-c63dmo5",
+      "scrollTop": 1074.15380859375,
+      "startId": "20240113102857-aof1w7f"
+    },
+    "20240119205452-o8xp4ve": {
+      "endId": "20240202105353-qaj8ahd",
+      "rootId": "20240119205452-o8xp4ve",
+      "scrollTop": 0,
+      "startId": "20240119205452-ju6zl5c"
+    },
+    "20240208113259-nykkvaq": {
+      "endId": "20240818174124-ab1x2an",
+      "rootId": "20240208113259-nykkvaq",
+      "scrollTop": 1995.3846435546875,
+      "startId": "20240208113259-sp3g7zb"
+    },
+    "20240617200101-6t54qe3": {
+      "endId": "20240617185123-w0i4bux",
+      "rootId": "20240617200101-6t54qe3",
+      "scrollTop": 0,
+      "startId": "20240616082700-za08yja"
+    },
+    "20240628182917-igr7oq8": {
+      "endId": "20240902102403-gvrhtcv",
+      "rootId": "20240628182917-igr7oq8",
+      "scrollTop": 63.38461685180664,
+      "startId": "20240630200634-rofcfy3"
+    },
+    "20240630202623-07xsq4z": {
+      "endId": "20240724234719-szbvaxj",
+      "rootId": "20240630202623-07xsq4z",
+      "scrollTop": 0,
+      "startId": "20240630203426-lvw1155"
+    },
+    "20240706144654-mucp6ec": {
+      "endId": "20240707092219-5cua88y",
+      "rootId": "20240706144654-mucp6ec",
+      "scrollTop": 620.923095703125,
+      "startId": "20240706144654-8b8x4xk"
+    },
+    "20240706151006-6rjvhv0": {
+      "endId": "20240707093102-sl2widm",
+      "rootId": "20240706151006-6rjvhv0",
+      "scrollTop": 0,
+      "startId": "20240706151006-e5p3zvc"
+    },
+    "20240727160004-yt1hq3u": {
+      "endId": "20240727160004-k35lyko",
+      "rootId": "20240727160004-yt1hq3u",
+      "scrollTop": 0,
+      "startId": "20240804185428-r1lzb58"
+    },
+    "20241118220306-0hi65v5": {
+      "endId": "20241210121331-qjc8t7q",
+      "focusEnd": 4,
+      "focusId": "20241210111700-bv5jont",
+      "focusStart": 4,
+      "rootId": "20241118220306-0hi65v5",
+      "scrollTop": 2167.076904296875,
+      "startId": "20241119084540-nodh9e2"
+    },
+    "20250523140052-ie0fg8a": {
+      "endId": "20250523160352-s4wcpvk",
+      "rootId": "20250523140052-ie0fg8a",
+      "scrollTop": 0,
+      "startId": "20250523140052-t6mm6m5"
+    },
+    "20250625174644-29ar361": {
+      "endId": "20250625174852-ppti0kl",
+      "rootId": "20250625174644-29ar361",
+      "scrollTop": 0,
+      "startId": "20250625174644-xiiy1mv"
+    },
+    "20250704161715-3al493c": {
+      "endId": "20251031093731-s7lhtk1",
+      "rootId": "20250704161715-3al493c",
+      "scrollTop": 2197.53857421875,
+      "startId": "20250704162116-0fr4mhd"
+    },
+    "20251128155422-0cwdise": {
+      "endId": "20251128155751-tcbb6f1",
+      "rootId": "20251128155422-0cwdise",
+      "scrollTop": 0,
+      "startId": "20251128155431-zi5agqz"
+    },
+    "20251208152352-namxbfr": {
+      "endId": "20251209131809-axf106b",
+      "rootId": "20251208152352-namxbfr",
+      "scrollTop": 0,
+      "startId": "20251208214430-h6wx2nj"
+    },
+    "20251208152433-jvm5jp9": {
+      "endId": "20251208152437-fr1kiwq",
+      "rootId": "20251208152433-jvm5jp9",
+      "scrollTop": 0,
+      "startId": "20251208152437-qphlz4b"
+    },
+    "20251211234118-uxlg5jq": {
+      "endId": "20251212000529-c4r097n",
+      "rootId": "20251211234118-uxlg5jq",
+      "scrollTop": 0,
+      "startId": "20251211234118-vv409wi"
+    },
+    "20251213004841-h3wwfum": {
+      "endId": "20251213005030-bbeenbc",
+      "focusEnd": 598,
+      "focusId": "20251213004841-bqps767",
+      "focusStart": 598,
+      "rootId": "20251213004841-h3wwfum",
+      "scrollTop": 0,
+      "startId": "20251213004841-bqps767"
+    },
+    "20251216222121-viq6dcu": {
+      "endId": "20251219105330-nfpdlyx",
+      "rootId": "20251216222121-viq6dcu",
+      "scrollTop": 0,
+      "startId": "20251219000530-1rfvqam"
+    },
+    "20251217181921-m1836xr": {
+      "endId": "20251224153112-lbqc2q0",
+      "rootId": "20251217181921-m1836xr",
+      "scrollTop": 250.46153259277344,
+      "startId": "20251217205304-zrf7x8a"
+    },
+    "20251217194433-gizqxo8": {
+      "endId": "20251217195527-wbo7vry",
+      "rootId": "20251217194433-gizqxo8",
+      "scrollTop": 0,
+      "startId": "20251217195527-a1luqdh"
+    },
+    "20251224130645-94zoetf": {
+      "endId": "20251224221421-r9oe77d",
+      "rootId": "20251224130645-94zoetf",
+      "scrollTop": 0,
+      "startId": "20251224130645-iu0nchc"
+    },
+    "20251224130645-va1lm57": {
+      "endId": "20251224221421-6psonkv",
+      "rootId": "20251224130645-va1lm57",
+      "scrollTop": 0,
+      "startId": "20251224130645-3qtxa09"
+    },
+    "20251224140834-qdke5ke": {
+      "endId": "20251224155805-8a16aca",
+      "rootId": "20251224140834-qdke5ke",
+      "scrollTop": 0,
+      "startId": "20251224141031-e6yvvfm"
+    },
+    "20251224221441-p5g40b9": {
+      "endId": "20260103161802-tz6xq5s",
+      "rootId": "20251224221441-p5g40b9",
+      "scrollTop": 0,
+      "startId": "20251224221441-14bz7ex"
+    },
+    "20251228235423-e2hm7os": {
+      "endId": "20260101153144-hpn0rrn",
+      "rootId": "20251228235423-e2hm7os",
+      "scrollTop": 0,
+      "startId": "20251228235423-1f93ee0"
+    },
+    "20251228235423-trncih0": {
+      "endId": "20251229143206-spidvp9",
+      "focusEnd": 17,
+      "focusId": "20251228235423-oxbr49k",
+      "focusStart": 17,
+      "rootId": "20251228235423-trncih0",
+      "scrollTop": 227.6923065185547,
+      "startId": "20251228235423-oxbr49k"
+    },
+    "20260101190419-8ehuj86": {
+      "endId": "20260102205844-abctlj1",
+      "rootId": "20260101190419-8ehuj86",
+      "scrollTop": 3273.53857421875,
+      "startId": "20260101190419-d6mpcap"
+    },
+    "20260102110001-0glw75j": {
+      "endId": "20260106134646-q2t3c0l",
+      "focusEnd": 2,
+      "focusId": "20260106134646-tz38h8s",
+      "focusStart": 2,
+      "rootId": "20260102110001-0glw75j",
+      "scrollTop": 4588,
+      "startId": "20260102110001-aa795ns"
+    },
+    "20260102234618-t1zuqy0": {
+      "endId": "20260103154346-z68q2e4",
+      "rootId": "20260102234618-t1zuqy0",
+      "scrollTop": 0,
+      "startId": "20260102234618-jqx3msk"
+    },
+    "20260103123632-ctcrhh9": {
+      "endId": "20260103123632-i06pe2w",
+      "rootId": "20260103123632-ctcrhh9",
+      "scrollTop": 0,
+      "startId": "20260103123632-i06pe2w"
+    },
+    "20260103152906-mnaahpa": {
+      "endId": "20260103155133-cwhmxk3",
+      "rootId": "20260103152906-mnaahpa",
+      "scrollTop": 0,
+      "startId": "20260103152909-cv7j9al"
+    },
+    "20260103161804-fn1i836": {
+      "endId": "20260103162159-ilj1ik0",
+      "rootId": "20260103161804-fn1i836",
+      "scrollTop": 0,
+      "startId": "20260103161824-p67vbzp"
+    },
+    "20260103162204-2vjwiwt": {
+      "endId": "20260107232737-vvl6qpv",
+      "focusEnd": 0,
+      "focusId": "20260107210208-s7dfyfm",
+      "focusStart": 0,
+      "rootId": "20260103162204-2vjwiwt",
+      "scrollTop": 1080.923095703125,
+      "startId": "20260103162204-z4dhlb0"
+    },
+    "20260103162204-8784v2o": {
+      "endId": "20260107231947-4n6lymc",
+      "focusEnd": 0,
+      "focusId": "20260107231947-4n6lymc",
+      "focusStart": 0,
+      "rootId": "20260103162204-8784v2o",
+      "scrollTop": 1235.076904296875,
+      "startId": "20260103162204-gma5rcy"
+    },
+    "20260103162204-lmrb581": {
+      "endId": "20260107102306-bl1wrkk",
+      "rootId": "20260103162204-lmrb581",
+      "scrollTop": 0,
+      "startId": "20260103162204-mwe3qsd"
+    },
+    "20260104121602-40lyf4i": {
+      "endId": "20260104130440-z1lftdu",
+      "focusEnd": 0,
+      "focusId": "20260104130440-z1lftdu",
+      "focusStart": 0,
+      "rootId": "20260104121602-40lyf4i",
+      "scrollTop": 0,
+      "startId": "20260104121609-pwi0l5s"
+    },
+    "20260106115627-fi7rhgq": {
+      "endId": "20260106115627-w6pnv1d",
+      "rootId": "20260106115627-fi7rhgq",
+      "scrollTop": 0,
+      "startId": "20260106115627-w6pnv1d"
+    },
+    "20260106231412-bjdfsv2": {
+      "endId": "20260106231624-frsmcad",
+      "rootId": "20260106231412-bjdfsv2",
+      "scrollTop": 0,
+      "startId": "20260106231412-s1qxniw"
+    },
+    "20260107093319-kc3yngn": {
+      "endId": "20260108011013-c2abevr",
+      "focusEnd": 0,
+      "focusId": "20260107093319-68zjo85",
+      "focusStart": 0,
+      "rootId": "20260107093319-kc3yngn",
+      "scrollTop": 247.5,
+      "startId": "20260107093319-68zjo85"
+    },
+    "20260107130354-u8cfzbd": {
+      "endId": "20260109130536-x71cx0z",
+      "rootId": "20260107130354-u8cfzbd",
+      "scrollTop": 0,
+      "startId": "20260107130353-pqzmzsg"
+    },
+    "20260108092600-hdl5ltr": {
+      "endId": "20260108092600-v65dk1f",
+      "rootId": "20260108092600-hdl5ltr",
+      "scrollTop": 0,
+      "startId": "20260108092600-v65dk1f"
+    },
+    "20260108100225-ur2k2ya": {
+      "endId": "20260108211406-wet0spa",
+      "rootId": "20260108100225-ur2k2ya",
+      "scrollTop": 0,
+      "startId": "20260108100225-3vlfh6w"
+    },
+    "20260108125930-obdzjj0": {
+      "endId": "20260108125930-sg9lyhh",
+      "rootId": "20260108125930-obdzjj0",
+      "scrollTop": 0,
+      "startId": "20260108125930-sg9lyhh"
+    },
+    "20260109104946-8ig9kpn": {
+      "endId": "20260119115121-euxdffj",
+      "rootId": "20260109104946-8ig9kpn",
+      "scrollTop": 0,
+      "startId": "20260109104946-k0ryll4"
+    },
+    "20260109164210-3ejk4r6": {
+      "endId": "20260109164210-52ojp40",
+      "rootId": "20260109164210-3ejk4r6",
+      "scrollTop": 0,
+      "startId": "20260109164210-52ojp40"
+    },
+    "20260113091001-vxg2250": {
+      "endId": "20260113091004-n37kpte",
+      "rootId": "20260113091001-vxg2250",
+      "scrollTop": 0,
+      "startId": "20260113091004-xz090uw"
+    },
+    "20260114152612-2g60dlm": {
+      "endId": "20260114152857-vfvziqa",
+      "rootId": "20260114152612-2g60dlm",
+      "scrollTop": 0,
+      "startId": "20260114152624-ck4gcwv"
+    },
+    "20260119115146-vgqexgo": {
+      "endId": "20260121005052-m0122b5",
+      "rootId": "20260119115146-vgqexgo",
+      "scrollTop": 0,
+      "startId": "20260119115146-9qrg97q"
+    },
+    "20260121114251-i10bl7j": {
+      "endId": "20260121131819-qncpnic",
+      "rootId": "20260121114251-i10bl7j",
+      "scrollTop": 0,
+      "startId": "20260121114251-cpyqivj"
+    },
+    "20260121115551-mcjep05": {
+      "endId": "20260121123346-6ubs7br",
+      "focusEnd": 0,
+      "focusId": "20260121123346-6ubs7br",
+      "focusStart": 0,
+      "rootId": "20260121115551-mcjep05",
+      "scrollTop": 0,
+      "startId": "20260121115551-cyzv9mz"
+    },
+    "20260121132443-yakck4f": {
+      "endId": "20260121133819-0o3ux4p",
+      "rootId": "20260121132443-yakck4f",
+      "scrollTop": 0,
+      "startId": "20260121132443-nx0kdae"
+    }
+  },
+  "local-filespaths": [
+    {
+      "notebookId": "20260121235425-hz21zxh",
+      "openPaths": [
+        "/20260121235427-y0wcq3o.sy"
+      ]
+    }
+  ],
+  "local-fontstyles": [
+    "color​var(--b3-font-color8)",
+    "fontSize​24px",
+    "fontSize​32px",
+    "fontSize​16px",
+    "fontSize​12px",
+    "color​var(--b3-font-color11)",
+    "style1​​",
+    "style1​var(--b3-card-error-background)​var(--b3-card-error-color)"
+  ],
+  "local-history": {
+    "notebookId": "%",
+    "operation": "all",
+    "sideDiffWidth": "256px",
+    "sideDocWidth": "256px",
+    "sideWidth": "256px",
+    "type": 0
+  },
+  "local-layouts": [],
+  "local-move-path": {
+    "k": "",
+    "keys": []
+  },
+  "local-pdftheme": {
+    "annoColor": "var(--b3-pdf-background5)",
+    "dark": "dark",
+    "light": "light"
+  },
+  "local-plugin-docks": {
+    "jupyter-client": {},
+    "siyuan-graph": {},
+    "siyuan-importer": {},
+    "siyuan-media-player": {},
+    "siyuan-plugin-aether": {},
+    "siyuan-plugin-block-history": {
+      "siyuan-plugin-block-historyblock_history_dock": {
+        "icon": "showHistory",
+        "index": 4,
+        "position": "LeftTop",
+        "show": false,
+        "size": {
+          "height": null,
+          "width": null
+        },
+        "title": "show History"
+      }
+    },
+    "siyuan-plugin-hsr-mdzz2048-fork": {},
+    "siyuan-plugin-keymap": {},
+    "siyuan-plugin-picture-library": {
+      "siyuan-plugin-picture-libraryiconPictureLibrary": {
+        "icon": "iconPictureLibrary",
+        "index": 2,
+        "position": "RightTop",
+        "show": false,
+        "size": {
+          "height": 0,
+          "width": 200
+        },
+        "title": "图库"
+      }
+    },
+    "siyuan-plugin-webapp": {},
+    "siyuan-sireader": {
+      "siyuan-sireaderSiyuanReaderDock": {
+        "icon": "siyuan-reader-icon",
+        "index": 0,
+        "position": "RightTop",
+        "show": false,
+        "size": {
+          "height": 580,
+          "width": 680
+        },
+        "title": "思阅"
+      }
+    },
+    "siyuan_mobile_marketplace": {},
+    "sy-theme-change": {},
+    "sy-tomato-plugin": {
+      "sy-tomato-plugindock_GraphBox": {
+        "hotkey": "⌥⌘Z",
+        "icon": "iconGraphTomato",
+        "index": 2,
+        "position": "LeftBottom",
+        "show": false,
+        "size": {
+          "height": 1000,
+          "width": 1000
+        },
+        "title": "块关系图"
+      }
+    },
+    "syplugin-doubleClickFileTree": {},
+    "typewriter": {},
+    "webview": {}
+  },
+  "local-plugintopunpin": [
+    "plugin_siyuan-plugin-hsr-mdzz2048-fork_0",
+    "plugin_siyuan-plugin-random-doc_0",
+    "plugin_siyuan-plugin-text-process_0",
+    "plugin_webview_0",
+    "plugin_siyuan-graph_0",
+    "plugin_siyuan-plugins-index_0",
+    "plugin_siyuan-plugin-publisher_0"
+  ],
+  "local-searchkeys": {
+    "col": "",
+    "colTab": "",
+    "keys": [
+      "#金融经济学#",
+      "#优化问题#",
+      "",
+      "集市",
+      "优化问题",
+      "VAR",
+      "链滴",
+      "CAPM",
+      "有效前沿",
+      "DeepSeek",
+      "10",
+      "中级",
+      "#​优化问题#",
+      "无风险",
+      "json",
+      "#和DeepSeek的对话#",
+      "本回答由 AI 生成，内容仅供参考，请仔细甄别。",
+      "#​F0F0F0\")    # 使用 pack 布局管理器将顶部栏放置到父容器中，上下各留10像素的间距，横向填满父容器    #",
+      "#​top_frame.pack(pady=10, fill=\"x\")    # 定义 logo 图片文件的路径    logo_path = \"whu_logo.png\"    # 打开 logo 图片文件    image = Image.open(logo_path)    # 调整图片大小为 60x60 像素    image = image.resize((60, 60))    # 将处理后的图片转换为 Tkinter 可识别的 PhotoImage 对象    logo = ImageTk.PhotoImage(image)    # 在顶部栏中创建一个标签，用于显示 logo 图片，并设置背景颜色保持一致    logo_label = tk.Label(top_frame, image=logo, bg=\"#",
+      "#​创建主窗口root = tk.Tk()root.title(\"学生信息管理系统\")root.geometry(\"600x400\")root.configure(bg=\"#",
+      "#​创建主窗口#",
+      "关系图",
+      "数据库",
+      "模板",
+      "流程",
+      "表格",
+      "#​命题#",
+      "#​优化#",
+      "通货膨胀",
+      "数据快照",
+      "数学",
+      "#​标签#"
+    ],
+    "layout": 0,
+    "layoutTab": 0,
+    "replaceKeys": [],
+    "row": "",
+    "rowTab": ""
+  },
+  "local-zoom": 1,
+  "pdfjs.history": "{\"files\":[{\"fingerprint\":\"d61d15d1476506d2443d29c7c74e69fb\",\"sidebarView\":0,\"page\":6,\"zoom\":\"auto\",\"scrollLeft\":-15,\"scrollTop\":173,\"rotation\":0},{\"fingerprint\":\"9dcd3e8ab787472ebed928bc0d1361e1\",\"sidebarView\":0,\"page\":10,\"zoom\":\"auto\",\"scrollLeft\":-43,\"scrollTop\":363,\"rotation\":0},{\"fingerprint\":\"af699aca48ed4fff92bb5a46d2206def\",\"sidebarView\":0,\"page\":1,\"zoom\":\"auto\",\"scrollLeft\":-17,\"scrollTop\":548,\"rotation\":0},{\"fingerprint\":\"8e77f340cad44d6991a9ca34575797ac\",\"sidebarView\":0,\"page\":18,\"zoom\":\"auto\",\"scrollLeft\":-23,\"scrollTop\":61,\"rotation\":0},{\"fingerprint\":\"45cb5fef4bc84342865acd8fd9b74d09\",\"sidebarView\":0,\"page\":15,\"zoom\":\"auto\",\"scrollLeft\":-43,\"scrollTop\":420,\"rotation\":0},{\"fingerprint\":\"2876683e40444a85b7d7bf49e231db7b\",\"sidebarView\":0,\"page\":1,\"zoom\":\"auto\",\"scrollLeft\":-20,\"scrollTop\":540,\"rotation\":0},{\"fingerprint\":\"9ba96edf92e527c78f91c366a80d8eb0\",\"sidebarView\":0,\"page\":1,\"zoom\":\"auto\",\"scrollLeft\":-21,\"scrollTop\":850,\"rotation\":0},{\"fingerprint\":\"5cbeea3efefd36d6ec0056edd08f7d45\",\"sidebarView\":0,\"page\":1,\"zoom\":\"auto\",\"scrollLeft\":-21,\"scrollTop\":850,\"rotation\":0},{\"fingerprint\":\"a0e6173313ae055343518962f7143d25\",\"sidebarView\":0,\"page\":1,\"zoom\":\"auto\",\"scrollLeft\":-17,\"scrollTop\":734,\"rotation\":0},{\"fingerprint\":\"083c9dcc2f2a2451f62100251b1cfe76\",\"sidebarView\":0,\"page\":1,\"zoom\":\"auto\",\"scrollLeft\":-12,\"scrollTop\":850,\"rotation\":0},{\"fingerprint\":\"896197e1371d8248e925945d9a957a3b\",\"sidebarView\":0,\"page\":1,\"zoom\":\"auto\",\"scrollLeft\":-21,\"scrollTop\":852,\"rotation\":0},{\"fingerprint\":\"6b7688e553844e83bc1d2f25c93f0fe0\",\"sidebarView\":0,\"page\":61,\"zoom\":\"auto\",\"scrollLeft\":-20,\"scrollTop\":339,\"rotation\":0},{\"fingerprint\":\"153a5896b15f08b9958895743d19f664\",\"sidebarView\":0,\"page\":482,\"zoom\":\"auto\",\"scrollLeft\":-21,\"scrollTop\":751,\"rotation\":0},{\"fingerprint\":\"9df3e91238763860dddb68b0ab1cb596\",\"sidebarView\":0,\"page\":1,\"zoom\":\"auto\",\"scrollLeft\":-21,\"scrollTop\":852,\"rotation\":0},{\"fingerprint\":\"b7325096e2b348bf9183aae2c5f14db0\",\"sidebarView\":0,\"page\":11,\"zoom\":\"auto\",\"scrollLeft\":-23,\"scrollTop\":540,\"rotation\":0,\"scrollMode\":0},{\"fingerprint\":\"b2c617226f3985cf970ecf0ea471bc75\",\"sidebarView\":0,\"page\":1,\"zoom\":\"auto\",\"scrollLeft\":-32,\"scrollTop\":855,\"rotation\":0},{\"fingerprint\":\"f4633e5bb59d918965a8ebdee3c0e95e\",\"sidebarView\":0,\"page\":1,\"zoom\":\"auto\",\"scrollLeft\":-26,\"scrollTop\":329,\"rotation\":0},{\"fingerprint\":\"0b2d5e209d4640a388e4c224304341d4\",\"sidebarView\":0,\"page\":63,\"zoom\":\"auto\",\"scrollLeft\":-33,\"scrollTop\":16,\"rotation\":0},{\"fingerprint\":\"7505e14ce7f441679d464b62a94b9eb6\",\"sidebarView\":0,\"page\":4,\"zoom\":\"auto\",\"scrollLeft\":-35,\"scrollTop\":541,\"rotation\":0}]}",
+  "tsundoku-color-href": "/appearance/themes/Tsundoku/style/theme/Tsundoku_green.css",
+  "tsundoku-h-reminder": "true",
+  "tsundoku-vertical-tab": "false"
+}

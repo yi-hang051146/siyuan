@@ -1,10 +1,54 @@
 [
 	{
+		"name": "Asri-enhance",
+		"displayName": "Asri主题增强",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-toolbar-customizer",
+		"displayName": "工具栏定制器",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": true,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan_doctree_compress",
+		"displayName": "文档树自定义",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
 		"name": "GIT-SYNC-PLUGIN",
 		"displayName": "GIT同步插件",
 		"enabled": true,
 		"incompatible": false,
 		"disabledInPublish": false,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-sireader",
+		"displayName": "思阅",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": true,
 		"disallowInstall": false,
 		"js": "",
 		"css": "",

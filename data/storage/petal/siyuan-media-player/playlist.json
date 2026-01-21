@@ -1,0 +1,26 @@
+{
+  "playlists": [
+    {
+      "id": "playlist-1765471219646",
+      "name": "Downloads",
+      "isFixed": false,
+      "items": [
+        {
+          "id": "media-1767848385688",
+          "title": "d2e95554-51cd-4916-b630-d5bdbb641302",
+          "type": "video",
+          "url": "blob:http://127.0.0.1:6806/d2e95554-51cd-4916-b630-d5bdbb641302",
+          "source": "blob",
+          "thumbnail": "/plugins/siyuan-media-player/assets/images/video.png",
+          "duration": "",
+          "artist": "",
+          "artistIcon": "",
+          "isPinned": false,
+          "isFavorite": false
+        }
+      ],
+      "description": "local:C:\\Users\\32272\\Desktop\\Downloads",
+      "pinned": true
+    }
+  ]
+}

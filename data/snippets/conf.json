@@ -1,0 +1,18 @@
+[
+  {
+    "id": "20251230194614-wvaie3s",
+    "name": "PDF导出颜色",
+    "type": "css",
+    "enabled": true,
+    "disabledInPublish": false,
+    "content": "/* ===== 标题颜色===== */\n/* 1. 编辑/预览模式标题颜色 */\n.protyle-wysiwyg .h1 {\ncolor: #eb8383 !important; /* 一级标题：#eb8383 */\n}\n.protyle-wysiwyg .h2 {\ncolor: #8a7da0 !important; /* 二级标题：#8a7da0 */\n}\n.protyle-wysiwyg .h3 {\ncolor: #7db5cd !important; /* 三级标题：#7db5cd */\n}\n.protyle-wysiwyg .h4 {\ncolor: #71a796 !important; /* 四级标题：#71a796 */\n}\n.protyle-wysiwyg .h5 {\ncolor: #b6a277 !important; /* 五级标题：#b6a277 */\n}\n.protyle-wysiwyg .h6 {\ncolor: #dda36a !important; /* 六级标题：#dda36a */\n}\n\n/* 2. PDF导出/打印模式（强制保留颜色） */\n@media print {\n.protyle-wysiwyg .h1, .protyle-print .h1 {\ncolor: #eb8383 !important;\n-webkit-print-color-adjust: exact !important;\nprint-color-adjust: exact !important;\n}\n.protyle-wysiwyg .h2, .protyle-print .h2 {\ncolor: #8a7da0 !important;\n-webkit-print-color-adjust: exact !important;\nprint-color-adjust: exact !important;\n}\n.protyle-wysiwyg .h3, .protyle-print .h3 {\ncolor: #7db5cd !important;\n-webkit-print-color-adjust: exact !important;\nprint-color-adjust: exact !important;\n}\n.protyle-wysiwyg .h4, .protyle-print .h4 {\ncolor: #71a796 !important;\n-webkit-print-color-adjust: exact !important;\nprint-color-adjust: exact !important;\n}\n.protyle-wysiwyg .h5, .protyle-print .h5 {\ncolor: #b6a277 !important;\n-webkit-print-color-adjust: exact !important;\nprint-color-adjust: exact !important;\n}\n.protyle-wysiwyg .h6, .protyle-print .h6 {\ncolor: #dda36a !important;\n-webkit-print-color-adjust: exact !important;\nprint-color-adjust: exact !important;\n}\n}"
+  },
+  {
+    "id": "20251224220612-comga0e",
+    "name": "隐藏列表线",
+    "type": "css",
+    "enabled": false,
+    "disabledInPublish": false,
+    "content": ".protyle-wysiwyg [data-node-id].li::before {\n  display: none;\n}"
+  }
+]

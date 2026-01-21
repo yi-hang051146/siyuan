@@ -1,0 +1,218 @@
+{
+    "general": {
+        "useragent": "",
+        "background": "transparent"
+    },
+    "tab": {
+        "enable": true,
+        "open": {
+            "mouse": {
+                "type": "click",
+                "button": 0,
+                "altKey": false,
+                "ctrlKey": false,
+                "metaKey": false,
+                "shiftKey": false
+            },
+            "targets": {
+                "hyperlink": {
+                    "editor": {
+                        "enable": true
+                    },
+                    "other": {
+                        "enable": true
+                    }
+                }
+            },
+            "protocols": {
+                "https": {
+                    "enable": true,
+                    "prefix": "https://"
+                },
+                "http": {
+                    "enable": true,
+                    "prefix": "http://"
+                },
+                "file": {
+                    "enable": true,
+                    "prefix": "file://"
+                },
+                "ftps": {
+                    "enable": true,
+                    "prefix": "ftps://"
+                },
+                "ftp": {
+                    "enable": true,
+                    "prefix": "ftp://"
+                },
+                "//": {
+                    "enable": true,
+                    "prefix": "//"
+                },
+                "#": {
+                    "enable": false,
+                    "prefix": "#"
+                }
+            },
+            "pathnames": {
+                "assets": {
+                    "enable": false,
+                    "prefix": "assets/"
+                },
+                "emojies": {
+                    "enable": false,
+                    "prefix": "emojies/"
+                },
+                "plugins": {
+                    "enable": false,
+                    "prefix": "plugins/"
+                },
+                "public": {
+                    "enable": false,
+                    "prefix": "public/"
+                },
+                "snippets": {
+                    "enable": false,
+                    "prefix": "snippets/"
+                },
+                "templates": {
+                    "enable": false,
+                    "prefix": "templates/"
+                },
+                "widgets": {
+                    "enable": false,
+                    "prefix": "widgets/"
+                },
+                "appearance": {
+                    "enable": false,
+                    "prefix": "appearance/"
+                },
+                "export": {
+                    "enable": false,
+                    "prefix": "export/"
+                },
+                "history": {
+                    "enable": false,
+                    "prefix": "history/"
+                },
+                "stage": {
+                    "enable": false,
+                    "prefix": "stage/"
+                }
+            }
+        }
+    },
+    "window": {
+        "enable": true,
+        "open": {
+            "mouse": {
+                "type": "mousedown",
+                "button": 1,
+                "altKey": false,
+                "ctrlKey": false,
+                "metaKey": false,
+                "shiftKey": false
+            },
+            "targets": {
+                "hyperlink": {
+                    "editor": {
+                        "enable": true
+                    },
+                    "other": {
+                        "enable": false
+                    }
+                }
+            },
+            "protocols": {
+                "siyuan": {
+                    "enable": true,
+                    "prefix": "siyuan://"
+                },
+                "https": {
+                    "enable": true,
+                    "prefix": "https://"
+                },
+                "http": {
+                    "enable": true,
+                    "prefix": "http://"
+                },
+                "file": {
+                    "enable": true,
+                    "prefix": "file://"
+                },
+                "ftps": {
+                    "enable": true,
+                    "prefix": "ftps://"
+                },
+                "ftp": {
+                    "enable": true,
+                    "prefix": "ftp://"
+                },
+                "//": {
+                    "enable": true,
+                    "prefix": "//"
+                }
+            },
+            "pathnames": {
+                "assets": {
+                    "enable": false,
+                    "prefix": "assets/"
+                },
+                "emojies": {
+                    "enable": false,
+                    "prefix": "emojies/"
+                },
+                "plugins": {
+                    "enable": false,
+                    "prefix": "plugins/"
+                },
+                "public": {
+                    "enable": false,
+                    "prefix": "public/"
+                },
+                "snippets": {
+                    "enable": false,
+                    "prefix": "snippets/"
+                },
+                "templates": {
+                    "enable": false,
+                    "prefix": "templates/"
+                },
+                "widgets": {
+                    "enable": false,
+                    "prefix": "widgets/"
+                },
+                "appearance": {
+                    "enable": false,
+                    "prefix": "appearance/"
+                },
+                "export": {
+                    "enable": false,
+                    "prefix": "export/"
+                },
+                "history": {
+                    "enable": false,
+                    "prefix": "history/"
+                },
+                "stage": {
+                    "enable": false,
+                    "prefix": "stage/"
+                }
+            }
+        },
+        "params": {
+            "width": 800,
+            "height": 600,
+            "center": false,
+            "frame": true,
+            "alwaysOnTop": true,
+            "autoHideMenuBar": true,
+            "enableMenuBar": true
+        },
+        "siyuan": {
+            "enable": true,
+            "focus": false,
+            "editorType": 3
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "local-dialogposition": {
+    "dialog-history": {
+      "height": 921,
+      "left": 122,
+      "top": 115,
+      "width": 1802
+    },
+    "dialog-setting": {
+      "height": 1036,
+      "left": 384,
+      "top": 57,
+      "width": 1280
+    }
+  },
+  "local-fileposition": {},
+  "local-filespaths": [
+    {
+      "notebookId": "20260121172740-7jnvtos",
+      "openPaths": [
+        "/20251224140834-mfrf8jc.sy"
+      ]
+    }
+  ],
+  "local-history": {
+    "notebookId": "%",
+    "operation": "all",
+    "sideDiffWidth": "256px",
+    "sideDocWidth": "256px",
+    "sideWidth": "256px",
+    "type": 0
+  }
+}
