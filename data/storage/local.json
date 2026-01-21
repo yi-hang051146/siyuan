@@ -13,12 +13,19 @@
       "width": 1280
     }
   },
-  "local-fileposition": {},
+  "local-fileposition": {
+    "20260122013259-6f8z76l": {
+      "endId": "20260122013259-3czy9pm",
+      "rootId": "20260122013259-6f8z76l",
+      "scrollTop": 0,
+      "startId": "20260122013259-3czy9pm"
+    }
+  },
   "local-filespaths": [
     {
-      "notebookId": "20260121172740-7jnvtos",
+      "notebookId": "20260107093318-ujww5e8",
       "openPaths": [
-        "/20251224140834-mfrf8jc.sy"
+        "/20260122013259-6f8z76l.sy"
       ]
     }
   ],
