@@ -1,0 +1,118 @@
+@keyframes statusExpand {
+    0% {
+        transform: scaleX(0.4) scaleY(0.4) translate(0px,0px);
+    }
+
+    100% {
+        transform: translate(0px,0px);
+    }
+}
+
+
+.toolbar:not(.toolbar--border) ~ #status,.body--window #status{
+	position: fixed;
+    display: flex;
+    min-width: 0;
+    align-items: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 24px;
+    line-height: 24px;
+    right: 0px;
+    bottom: 9px; 
+	border-radius: 6px;
+    border: none;
+    background-color: var(--Sv-status-msg-background);
+    transform-origin: 100% 100%;
+    animation: statusExpand .1s ;
+    padding: 0;
+    .toolbar__item:not(.toolbar__item--close) {
+        padding:2px;
+        margin: unset;
+        height: 24px;
+        svg{
+            padding:3px;
+            width: 12px;
+        }
+        & span{
+            margin:3px;
+            font-size:12px;
+        }
+        &:hover {
+            background-color: var(--Sv-status-item-hover)!important;
+        }
+    }
+    >.fn__flex-1{
+        display: none;
+    }
+    #barDock{
+        order: 99;
+    }
+    .status__msg:not(:empty){
+            padding-left: 26px!important;
+            padding-right: 10px;
+            &::after{
+                content: "📢";
+                font-size:12px;
+                padding:0 6px;
+                position: absolute;
+                left: 0px;
+            }
+    }
+}
+
+.status.fn__none{/*隐藏底栏保留停靠栏按钮*/
+    display: flex!important;
+    padding: 0px;
+    &>div:not(#barDock){
+        display: none;
+    }
+}
+
+
+
+/* 隐藏内容 */
+#status.Sv-StatusHidden {
+    height: 10px!important;
+    transition: all 0.3s cubic-bezier(.4,0,.2,1), background 0.3s;
+    position: relative;
+    cursor: pointer;
+    background-color: transparent!important;
+    & div{
+        opacity: 0;
+        transition: all 0.3s cubic-bezier(.4,0,.2,1), background 0.3s;
+    }
+    &::before {
+        content: '···';
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 10px;
+        width: 48px;
+        font-size: 18px;
+        position: absolute;
+        right: 6px;
+        top: 0px;
+        border-radius: 5px;
+        color: var(--Sv-dock-item--activefocus-color);
+        background: var(--Sv-dock-item--activefocus-background);
+        z-index: 1;
+        transition: all 0.3s cubic-bezier(.4,0,.2,1), background 0.3s;
+        pointer-events: none;
+    }
+}
+
+
+/* 悬停时展开底栏，显示内容 */
+#status.Sv-StatusHidden:hover {
+    height: 24px!important;
+    width: auto!important;
+    background-color: var(--Sv-status-msg-background)!important;
+    & div{
+        opacity: 1;
+    }
+    &::before{
+        opacity: 0;
+    }
+}

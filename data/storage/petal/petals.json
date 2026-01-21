@@ -1,5 +1,195 @@
 [
 	{
+		"[
+	{
+		"name[
+	{
+		"name": "[
+	{
+		"name": "GIT[
+	{
+		"name": "GIT-[
+	{
+		"name": "GIT-SYNC[
+	{
+		"name": "GIT-SYNC-[
+	{
+		"name": "GIT-SYNC-PLUGIN[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": [
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": [
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": [
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": [
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false,
+		"[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false,
+		"js[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false,
+		"js": "",
+		"[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false,
+		"js": "",
+		"css[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n[
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n": [
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT同步插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n": null[
+	{
 		"name": "GIT-SYNC-PLUGIN",
 		"displayName": "GIT同步插件",
 		"enabled": true,
@@ -11,3 +201,47 @@
 		"i18n": null
 	}
 ]
+	},
+	{
+		"name": "siyuan_doctree_compress",
+		"displayName": "文档树自定义",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-toolbar-customizer",
+		"displayName": "工具栏定制器",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": true,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "Asri-enhance",
+		"displayName": "Asri主题增强",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-sireader",
+		"displayName": "思阅",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": true,
+		"disallowInstall": false,
+		"js": "",
+		"css": "",
+		"i18n": null
